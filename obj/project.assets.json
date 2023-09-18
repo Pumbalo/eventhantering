@@ -8,24 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\simon\\.nuget\\packages\\": {}
+    "/Users/osama/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\eventhantering.csproj",
+      "projectUniqueName": "/Users/osama/eventhantering/eventhantering.csproj",
       "projectName": "eventhantering",
-      "projectPath": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\eventhantering.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\",
+      "projectPath": "/Users/osama/eventhantering/eventhantering.csproj",
+      "packagesPath": "/Users/osama/.nuget/packages/",
+      "outputPath": "/Users/osama/eventhantering/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/osama/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

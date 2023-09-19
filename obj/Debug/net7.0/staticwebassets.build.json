@@ -1,28 +1,50 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "pqEv8OHliNXgplRMFF/vGHaK5pyIEKj7aaO1hx+K7xI=",
+  "Source": "test.web",
+  "BasePath": "_content/test.web",
+=======
   "Hash": "N7Xan6keb/iTUH/GM1uC1crtIkvxoyBeIT6UxQH2RyE=",
   "Source": "eventhantering",
   "BasePath": "_content/eventhantering",
+>>>>>>> main
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
+      "Name": "test.web\\wwwroot",
+      "Source": "test.web",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Name": "eventhantering\\wwwroot",
       "Source": "eventhantering",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\test.web.styles.css",
+      "SourceId": "test.web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/test.web",
+      "RelativePath": "test.web.styles.css",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\Debug\\net7.0\\scopedcss\\bundle\\eventhantering.styles.css",
       "SourceId": "eventhantering",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/eventhantering",
       "RelativePath": "eventhantering.styles.css",
+>>>>>>> main
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,6 +53,17 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\test.web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\test.web.bundle.scp.css",
+      "SourceId": "test.web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/test.web",
+      "RelativePath": "test.web.bundle.scp.css",
+=======
       "OriginalItemSpec": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\Debug\\net7.0\\scopedcss\\bundle\\eventhantering.styles.css"
     },
     {
@@ -40,6 +73,7 @@
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/eventhantering",
       "RelativePath": "eventhantering.bundle.scp.css",
+>>>>>>> main
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -48,6 +82,16 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\test.web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\favicon.ico",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "OriginalItemSpec": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\eventhantering.bundle.scp.css"
     },
     {
@@ -73,6 +117,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -85,11 +130,19 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\js\\site.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\js\\site.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -102,11 +155,19 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -119,11 +180,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -136,11 +205,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -153,11 +230,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -170,11 +255,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -187,11 +280,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -204,11 +305,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -221,11 +330,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -238,11 +355,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -255,11 +380,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -272,11 +405,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -289,11 +430,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -306,11 +455,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -323,11 +480,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -340,11 +505,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -357,11 +530,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -374,11 +555,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -391,11 +580,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -408,11 +605,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -425,11 +630,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -442,11 +655,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -459,11 +680,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -476,11 +705,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -493,11 +730,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -510,11 +755,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -527,11 +780,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -544,11 +805,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -561,11 +830,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -578,11 +855,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -595,11 +880,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -612,11 +905,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -629,11 +930,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -646,11 +955,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -663,11 +980,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -680,11 +1005,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -697,11 +1030,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -714,11 +1055,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -731,11 +1080,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -748,11 +1105,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -765,11 +1130,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -782,11 +1155,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -799,11 +1180,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -816,11 +1205,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -833,11 +1230,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -850,11 +1255,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -867,11 +1280,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -884,11 +1305,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -901,11 +1330,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -918,11 +1355,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -935,11 +1380,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -952,11 +1405,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -969,11 +1430,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -986,11 +1455,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1003,11 +1480,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1020,11 +1505,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1037,11 +1530,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1054,11 +1555,19 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "test.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\wwwroot\\",
+      "BasePath": "_content/test.web",
+=======
       "Identity": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "eventhantering",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\wwwroot\\",
       "BasePath": "_content/eventhantering",
+>>>>>>> main
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",

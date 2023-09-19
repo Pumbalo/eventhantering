@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+﻿using Microsoft.AspNetCore.Mvc;
+namespace test.web.Controllers;
+
+public class HomeController : Controller
+{
+=======
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using eventhantering.Models;
@@ -13,10 +20,13 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+>>>>>>> main
     public IActionResult Index()
     {
         return View();
     }
+<<<<<<< HEAD
+=======
 
     public IActionResult Privacy()
     {
@@ -28,4 +38,5 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+>>>>>>> main
 }

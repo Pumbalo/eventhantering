@@ -3,6 +3,23 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<<<<<<< HEAD
+    <title>@ViewBag.PageTitle EventShare</title>
+</head>
+<body>
+        <header>
+        <navbar>
+            <ul class="nav-list">
+                <li class="nav-item">Start</li>
+                <li class="nav-item">Events</li>
+                <li class="nav-item">Members</li>
+            </ul>
+        </navbar> 
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+=======
     <title>@ViewData["Title"] - eventhantering</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
@@ -45,5 +62,6 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+>>>>>>> main
 </body>
 </html>

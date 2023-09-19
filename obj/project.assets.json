@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net7.0": {
       "Humanizer.Core/2.14.1": {
         "type": "package",
@@ -1304,10 +1305,21 @@
   },
   "packageFolders": {
     "C:\\Users\\jonat\\.nuget\\packages\\": {}
+=======
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\simon\\.nuget\\packages\\": {}
+>>>>>>> main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\test.web.csproj",
       "projectName": "test.web",
       "projectPath": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\test.web.csproj",
@@ -1317,12 +1329,25 @@
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\eventhantering.csproj",
+      "projectName": "eventhantering",
+      "projectPath": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\eventhantering.csproj",
+      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> main
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> main
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1340,6 +1365,7 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+<<<<<<< HEAD
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1356,6 +1382,8 @@
             "version": "[7.0.11, )"
           }
         },
+=======
+>>>>>>> main
         "imports": [
           "net461",
           "net462",
@@ -1375,7 +1403,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+>>>>>>> main
       }
     }
   }

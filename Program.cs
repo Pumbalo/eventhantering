@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using Microsoft.EntityFrameworkCore;
 using test.web.Data;
 
@@ -7,10 +8,16 @@ var builder = WebApplication.CreateBuilder(args);
 // Database support...
 builder.Services.AddDbContext<TestContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("Sqlite")));
 
+=======
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+>>>>>>> main
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+<<<<<<< HEAD
 // Seed the database...
 using var scope = app.Services.CreateScope();
 var services = scope.ServiceProvider;
@@ -30,6 +37,8 @@ catch (Exception ex)
     throw;
 }
 
+=======
+>>>>>>> main
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

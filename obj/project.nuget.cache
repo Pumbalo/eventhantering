@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MtfNK1qA7J7BzTHOh4Ozf1oPtOql/q6nQPLa94IbkHqUpN0kVjBR6cMNB5ket4VOjWurd/V/T3K05jKoGfUI9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\Desktop\\Aktuella program\\Mvc - test\\test.web2\\test.web.csproj",
@@ -34,5 +35,11 @@
     "C:\\Users\\jonat\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "x8PF/o9WIzLbxhjwmIGyb/b86hU+3b2zcDMbYM9lve5EQ1Ww8Wd/yAfAXLoMxj3a516sNalBs9ZRiCkYJntJbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon\\Desktop\\Skola-år-2\\eventhantering\\eventhantering.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> main
   "logs": []
 }
